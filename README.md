@@ -48,7 +48,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&theme=codeSTACKr"/>
 </div>
 
 ---
