@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jaebin Kim</h1>
-<h3 align="center">斷機之戒 <sub><sub>(단기지계)</sub></sub> | 학문을 중도에서 그만두면 아무런 쓸모가 없다</h3>
+<h3 align="center">斷機之戒<sub><sub>(단기지계)</sub></sub> | 학문을 중도에서 그만두면 아무런 쓸모가 없다</h3>
 
 ---
 
