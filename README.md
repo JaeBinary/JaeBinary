@@ -32,7 +32,7 @@
 
 ### 🔥 **GitHub Stats**
 
-<table>
+<table border="0">
   <tr>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&count_private=true&hide_border=true" />
