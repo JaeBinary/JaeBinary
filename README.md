@@ -40,6 +40,10 @@
 
 ### 📫 **Contact Me**
 
+<p align="center">
+  <a href="https://haileelog.github.io/">  <img src="https://img.shields.io/badge/Gmail-#EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
+
 - 📧 Email: jaebin0815@gmail.com
 - 📝 Blog: [JBK DevLog](https://jbk-blog.com)
 - 💼 Portfolio: [Notion/Velog/GitHub Page 등으로 링크 가능]
