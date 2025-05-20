@@ -46,7 +46,7 @@
 ### 🔥 **GitHub Stats**
 
 <div align="center">
-  <img src="hhttps://github-readme-stats.vercel.app/api?JaeBinary=anuraghazra&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?JaeBinary=anuraghazra&show_icons=true&theme=dark"/>
 </div>
 
 ---
