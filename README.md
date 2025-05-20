@@ -7,8 +7,7 @@
 
 #### **Jul. 2024 - Feb. 2025**
 
-##### **Electronics Engineer**
-
+**Electronics Engineer**
 **_Co.,Ltd. Daelim E&I_** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Anyang-si, Gyeonggi-do, Repulic of Korea<br>
 Department of Technical
 
