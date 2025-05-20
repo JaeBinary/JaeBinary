@@ -32,14 +32,16 @@
 
 ### 🔥 **GitHub Stats**
 
-<p>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&count_private=true&hide_border=true"/>
-  </p>
-  <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBinary&langs_count=5&layout=compact"/>
-  </p>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&count_private=true&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBinary&langs_count=5&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ---
 
