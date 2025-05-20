@@ -33,18 +33,17 @@
 ### 🔥 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary-github-id&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&count_private=true&hide_border=true"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JaeBinary-github-id&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBinary&langs_count=5&layout=compact"/>
 </p>
 
 ---
 
 ### 📫 **Contact Me**
 
-- 📧 Email: jaebin0815@gmail.com
-- 📝 Blog: [JBK DevLog](https://jbk-blog.com)
-- 💼 Portfolio: [Notion/Velog/GitHub Page 등으로 링크 가능]
+- 🏠 **Adress**: Seoul, Republic of Korea
+- 📧 **E-mail**: jaebin0815@gmail.com
 
 ---
 
