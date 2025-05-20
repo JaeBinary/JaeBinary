@@ -9,9 +9,12 @@
 ### 💡 **About Me**
 
 <p align="center">
-  <a href="https://jaebinary.github.io/about"><img src="https://img.shields.io/badge/GitHubPages-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://velog.io/@jaebinary/about"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-  <a href="https://jaebinary.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="https://jaebinary.github.io/about">
+    <img src="https://img.shields.io/badge/GitHubPages-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://velog.io/@jaebinary/about">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  <a href="https://jaebinary.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </p>
 
 ---
@@ -51,6 +54,8 @@
 ### 📫 **Contact Me**
 
 <p align="center">
-  <a href="mailto:jaebin0815@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="mailto:jaebin0815@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <a href="mailto:jaebin0815@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jaebin0815@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 </p>
