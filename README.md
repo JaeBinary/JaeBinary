@@ -4,6 +4,8 @@
 <!-- https://simpleicons.org -->
 <!-- https://img.shields.io/badge/[이름]-[배경색]?style=for-the-badge&logo=[슬러그]&logoColor=[글씨색] -->
 
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaeBinary?color=blue&label=hits&size=small" alt="hits" /></a>
+
 ---
 
 ### 💡 **About Me**
