@@ -5,47 +5,9 @@
 
 ### 💡 **About Me**
 
-#### **Electronics Engineer** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; **Jul. 2024 - Feb. 2025**
-
-**_Co.,Ltd. Daelim E&I_** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Anyang-si, Gyeonggi-do, Repulic of Korea<br>
-Department of Technical
-
-#### **Jun. 2024 - Jul. 2024**
-
-##### **Intern**
-
-**_Co.,Ltd. Daelim E&I_** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Anyang-si, Gyeonggi-do, Repulic of Korea<br>
-Department of Technical
-
-#### **Mar. 2023 - Jun. 2024**
-
-##### **Working Scholar**
-
-**_Daelim University College_** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Anyang-si, Gyeonggi-do, Repulic of Korea<br>
-Work-Learning Dual System Training Center
-
-#### **Jul. 2023 - Aug. 2023**
-
-##### **Intern**
-
-**_DL E&C Co.,Ltd._** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Seoul, Republic of Korea<br>
-Department of Plant - Process Engineering Team
-
-#### **May. 2021 - Nov. 2022**
-
-##### **Sergeant**
-
-**_Republic of Korea Marine Corps_** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Pohang-si, Gyeongsangbuk-do, Republic of Korea<br>
-Reconnaissance Unit<br>
-**Airborne**: 248th<br>
-**Force Recon**: 104th
-
-#### **Jul. 2020 - Aug. 2020**
-
-##### **Intern**
-
-**_DL E&C Co.,Ltd._** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Seoul, Republic of Korea<br>
-Department of Plant - Business Process IT Team
+<p align="center">
+  <img src="https://img.shields.io/badge/Github Pages-#222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</p>
 
 ---
 
