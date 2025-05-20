@@ -21,8 +21,8 @@
   <a href="https://pandas.pydata.org/docs/index.html"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
   <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
   <br>
-  <img src="https://img.shields.io/badge/ANSI C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <a href="https://devdocs.io/c"><img src="https://img.shields.io/badge/ANSI C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <a href="https://docs.arduino.cc/language-reference"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
 </p>
 
 <!-- https://simpleicons.org -->
