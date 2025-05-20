@@ -6,7 +6,7 @@
 ### 💡 **About Me**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GithubPages-#222222?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/githubpages-#222222?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
