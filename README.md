@@ -39,6 +39,8 @@
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
   <a href="https://www.st.com/en/evaluation-tools/stm32-nucleo-boards/documentation.html">
     <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/></a>
+  <a href="https://www.st.com/en/evaluation-tools/stm32-nucleo-boards/documentation.html">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,7 +48,7 @@
 ### 🔥 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&count_private=true&hide_border=true"/>
 </div>
 
 ---
