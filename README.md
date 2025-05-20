@@ -32,8 +32,14 @@
 
 ### 🔥 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&count_private=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBinary&langs_count=5&layout=compact" />
+<tr>
+  <td valign="top">
+    <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&count_private=true&hide_border=true"/>
+  </td>
+  <td valign="top">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBinary&langs_count=5&layout=compact"/>
+  </td>
+</tr>
 
 ---
 
