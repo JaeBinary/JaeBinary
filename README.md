@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hello, I'm Jaebin Kim</h1>
 <h3 align="center">斷機之戒<sub><sub>(단기지계)</sub></sub> | 학문을 중도에서 그만두면 아무런 쓸모가 없다</h3>
 
+<!-- https://simpleicons.org -->
+<!-- https://img.shields.io/badge/[이름]-[배경색]?style=for-the-badge&logo=[슬러그]&logoColor=[글씨색] -->
+
 ---
 
 ### 💡 **About Me**
@@ -24,9 +27,6 @@
   <a href="https://devdocs.io/c"><img src="https://img.shields.io/badge/ANSI C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
   <a href="https://docs.arduino.cc/language-reference"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
 </p>
-
-<!-- https://simpleicons.org -->
-<!-- https://img.shields.io/badge/[이름]-[배경색]?style=for-the-badge&logo=[슬러그]&logoColor=[글씨색] -->
 
 ---
 
