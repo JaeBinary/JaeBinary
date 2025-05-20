@@ -22,6 +22,8 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
   <a href="https://jaebinary.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jaebinary">
+    <img src="https://img.shields.io/badge/LinkedIn-0C64C5?style=for-the-badge&logo=inspire&logoColor=white"/></a>
 </p>
 
 ---
