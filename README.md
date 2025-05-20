@@ -26,6 +26,7 @@
   <br>
   <a href="https://devdocs.io/c"><img src="https://img.shields.io/badge/ANSI C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
   <a href="https://docs.arduino.cc/language-reference"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
+  <a href="https://docs.arduino.cc/language-reference"><img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/></a>
 </p>
 
 ---
