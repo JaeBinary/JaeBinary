@@ -1,7 +1,8 @@
+<!-- https://myhits.vercel.app -->
+
 <p align="right">
-  <a href="https://myhits.vercel.app">
-    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaeBinary?color=blue&label=hits&size=small" alt="hits"/>
-  </a>
+  <a href="https://github.com/JaeBinary">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaeBinary?color=blue&label=hits&size=small" alt="hits"/></a>
 </p>
 
 <h1 align="center">👋 Hello, I'm Jaebin Kim</h1>
@@ -16,8 +17,7 @@
 
 <p align="center">
   <a href="https://jaebinary.github.io/about">
-    <img src="https://img.shields.io/badge/GitHubPages-222222?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/GitHubPages-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://velog.io/@jaebinary/about">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
   <a href="https://jaebinary.tistory.com">
