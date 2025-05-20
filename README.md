@@ -32,12 +32,14 @@
 
 ### 🔥 **GitHub Stats**
 
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
+<div align="center">
+  <span style="display: inline-block; vertical-align: top; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&count_private=true&hide_border=true" />
+  </span>
+  <span style="display: inline-block; vertical-align: top;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBinary&langs_count=5&layout=compact" />
-  </div>
-</p>
+  </span>
+</div>
 
 ---
 
