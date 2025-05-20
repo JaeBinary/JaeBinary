@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Jaebin Kim</h1>
+<h1 align="center">👋 Hello, I'm Jaebin Kim</h1>
 <h3 align="center">斷機之戒<sub><sub>(단기지계)</sub></sub> | 학문을 중도에서 그만두면 아무런 쓸모가 없다</h3>
 
 ---
@@ -32,10 +32,12 @@
 
 ### 🔥 **GitHub Stats**
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBinary&langs_count=5&layout=compact" />
-</div>
+<p align="center">
+  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeBinary&langs_count=5&layout=compact" />
+  </div>
+</p>
 
 ---
 
