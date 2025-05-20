@@ -45,9 +45,9 @@
 
 ### 📫 **Contact Me**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
+
 - 🏠 **Adress**: Seoul, Republic of Korea
 - 📧 **E-mail**: jaebin0815@gmail.com
-
----
-
-> “자동화는 게으른 사람의 창의성이다.”
