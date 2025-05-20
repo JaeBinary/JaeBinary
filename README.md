@@ -5,10 +5,49 @@
 
 ### 💡 **About Me**
 
-- 🔭 I’m currently working on **Python Selenium 자동화와 Tkinter GUI 앱**
-- 🌱 I’m learning **AI 기반 임베디드 시스템과 Web Development**
-- 🛠️ I love building tools that **자동화, 시각화, 배포가 가능한 형태로 완성**되는 것을 좋아합니다.
-- 🎯 2025 목표: **PyPI 패키지 등록 + Tech Blog 12편 작성 + AI융합 프로젝트 진행**
+#### **Jul. 2024 - Feb. 2025**
+
+##### **Electronics Engineer**
+
+**_Co.,Ltd. Daelim E&I_** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Anyang-si, Gyeonggi-do, Repulic of Korea<br>
+Department of Technical
+
+#### **Jun. 2024 - Jul. 2024**
+
+##### **Intern**
+
+**_Co.,Ltd. Daelim E&I_** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Anyang-si, Gyeonggi-do, Repulic of Korea<br>
+Department of Technical
+
+#### **Mar. 2023 - Jun. 2024**
+
+##### **Working Scholar**
+
+**_Daelim University College_** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Anyang-si, Gyeonggi-do, Repulic of Korea<br>
+Work-Learning Dual System Training Center
+
+#### **Jul. 2023 - Aug. 2023**
+
+##### **Intern**
+
+**_DL E&C Co.,Ltd._** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Seoul, Republic of Korea<br>
+Department of Plant - Process Engineering Team
+
+#### **May. 2021 - Nov. 2022**
+
+##### **Sergeant**
+
+**_Republic of Korea Marine Corps_** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Pohang-si, Gyeongsangbuk-do, Republic of Korea<br>
+Reconnaissance Unit<br>
+**Airborne**: 248th<br>
+**Force Recon**: 104th
+
+#### **Jul. 2020 - Aug. 2020**
+
+##### **Intern**
+
+**_DL E&C Co.,Ltd._** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Seoul, Republic of Korea<br>
+Department of Plant - Business Process IT Team
 
 ---
 
