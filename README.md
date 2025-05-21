@@ -65,7 +65,7 @@
 
 ---
 
-### 📫 **Contact Me**
+### 🔗 **Contact Me**
 
 <p align="center">
   <a href="mailto:jaebin0815@gmail.com">
