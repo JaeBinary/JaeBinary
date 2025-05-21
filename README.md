@@ -16,6 +16,8 @@
 ### 💡 **About Me**
 
 <p align="center">
+  <a href="https://jaebinary.notion.site/About-Me-1fa324f186fe80c3a980fffc60bc2c8d">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="https://jaebinary.github.io/about">
     <img src="https://img.shields.io/badge/GitHubPages-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://velog.io/@jaebinary/about">
