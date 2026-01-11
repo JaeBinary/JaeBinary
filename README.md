@@ -39,6 +39,8 @@
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></a>
   <a href="https://developers.google.com/workspace/sheets/api/reference/rest?hl=ko">
     <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/></a>
+  <a href="https://developers.notion.com/reference/intro">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="https://pandas.pydata.org/docs/index.html">
     <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
   <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html">
