@@ -7,7 +7,7 @@
 
 ---
 
-<h1 align="center">👋 Hello, I'm Jaebin Kim</h1>
+<h1 align="center">Welcome back to <i>JBK's GitHub</i></h1>
 <h3 align="center">斷機之戒: <i>Giving up halfway renders the effort useless</i></h3>
 
 ---
