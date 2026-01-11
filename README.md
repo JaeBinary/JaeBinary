@@ -40,9 +40,16 @@
   <a href="https://developers.google.com/workspace/sheets/api/reference/rest?hl=ko">
     <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/></a>
   <a href="https://developers.notion.com/reference/intro">
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
+  <br>
+
+  <a href="https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax">
+    <img src="https://img.shields.io/badge/Google_BigQuery-#669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/></a>
   <a href="https://pandas.pydata.org/docs/index.html">
-    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+  <a href="https://docs.plotly.com">
+    <img src="https://img.shields.io/badge/Plotly-#7A76FF?style=for-the-badge&logo=plotly&logoColor=white"/></a>
   <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
 
