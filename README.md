@@ -6,7 +6,8 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Jaebin Kim</h1>
-<h3 align="center">斷機之戒<sub>(단기지계)</sub>: 학문을 중도에서 그만두면 아무런 쓸모가 없다</h3>
+<h2 align="center">斷機之戒</h2>
+<h3 align="center">Giving up halfway renders the effort useless</h3>
 
 <!-- https://simpleicons.org -->
 <!-- https://img.shields.io/badge/[이름]-[배경색]?style=for-the-badge&logo=[슬러그]&logoColor=[글씨색] -->
