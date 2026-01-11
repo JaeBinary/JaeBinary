@@ -65,16 +65,18 @@
 
 ---
 
+<!-- 
 ### 🔥 **GitHub Stats**
-
+-->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-
+<!--
 <div align="center">
   <a href="https://github.com/JaeBinary">
   <img src="https://github-readme-stats.vercel.app/api?username=JaeBinary&show_icons=true&theme=codeSTACKr"/></a>
 </div>
 
 ---
+-->
 
 ### 🔗 **Contact Me**
 
