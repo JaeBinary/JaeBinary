@@ -6,8 +6,7 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Jaebin Kim</h1>
-<h3 align="center">斷機之戒</h3>
-<h4 align="center">Giving up halfway renders the effort useless</h4>
+<h3 align="center">斷機之戒: Giving up halfway renders the effort useless</h3>
 
 <!-- https://simpleicons.org -->
 <!-- https://img.shields.io/badge/[이름]-[배경색]?style=for-the-badge&logo=[슬러그]&logoColor=[글씨색] -->
