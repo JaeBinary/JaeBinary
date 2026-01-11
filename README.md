@@ -1,19 +1,19 @@
 <!-- https://myhits.vercel.app -->
 
----
-
 <p align="right">
   <a href="https://github.com/JaeBinary">
     <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaeBinary?color=blue&label=hits&size=small" alt="hits"/></a>
 </p>
 
+---
+
 <h1 align="center">👋 Hello, I'm Jaebin Kim</h1>
 <h3 align="center">斷機之戒: <i>Giving up halfway renders the effort useless</i></h3>
 
+---
+
 <!-- https://simpleicons.org -->
 <!-- https://img.shields.io/badge/[이름]-[배경색]?style=for-the-badge&logo=[슬러그]&logoColor=[글씨색] -->
-
----
 
 ### 💡 **About Me**
 
