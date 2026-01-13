@@ -2,7 +2,7 @@
 
 <p align="right">
   <a href="https://github.com/JaeBinary">
-    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaeBinary?color=blue&label='Profile views'&size=small" alt="Profile views"/></a>
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaeBinary?color=blue&label=Profile%20views&size=small" alt="Profile views"/></a>
 </p>
 
 ---
